@@ -51,9 +51,9 @@ While Apriori was effective and highly interpretable for this medium-sized datas
 ## Dataset Source
 [Market_Basket_Optimisation](https://www.kaggle.com/datasets/devchauhan1/market-basket-optimisationcsv?utm_source=chatgpt.com)
 ## Visual Results
-## Top 10 lift
+### Top 10 lift
 ![Top 10 lift](/images/top10_lift.png)
-## support confidence
+### support confidence
 ![support confidence](/images/support_confidence.png)
-## lift distribution
+### lift distribution
 ![lift distribution](/images/lift_distribution.png)
